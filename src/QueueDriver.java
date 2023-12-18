@@ -1,7 +1,7 @@
 //Josahandi Cisneros
-//CSC 311
 //Lecture Assignment 
 //Test the Queue and its methods 
+
 public class QueueDriver {
 
 	public static void main(String[] args) 
